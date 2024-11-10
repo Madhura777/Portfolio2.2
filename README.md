@@ -1,0 +1,1 @@
+This is my personal portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and experience in web development. The site includes sections like Home, About Me, Education, Skills, Tech Stack in Focus, and Let’s Connect to provide a complete view of my background and current focus areas.
